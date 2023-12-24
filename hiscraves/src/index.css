@@ -754,6 +754,12 @@ footer {
     border-right: none !important;
   }
 
+  .owl-theme .item img {
+  height: auto;
+  object-fit: contain;
+  object-position: unset;
+}
+
   .m-resp {
     margin: 3em 0;
   }

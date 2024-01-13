@@ -96,7 +96,7 @@ export default function Footer() {
       </footer>
       <div className="footer-bar">
         <Container className="copyright">
-          <p>©2022-23 Powered By dummy team</p>
+          <p>©2023-24 Powered By Infinite Creations</p>
         </Container>
       </div>
     </div>

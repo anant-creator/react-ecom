@@ -6,7 +6,7 @@ import cart from "../assets/cart.svg";
 import fav from "../assets/fav.svg";
 import search from "../assets/search.svg";
 import user from "../assets/user.svg";
-import Logo from '../assets/logo-trans.png';
+import Logo from '../assets/hiscraves.png';
 import menuToggle from '../assets/menu.svg';
 import close from '../assets/close.svg';
 

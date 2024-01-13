@@ -58,10 +58,11 @@ a {
 #filters {
   background-color: #ffffff;
   width: 400px;
+  max-width: 100%;
   min-height: 500px;
   z-index: 500;
   position: fixed;
-  top: 3%;
+  top: 0;
   left: 0;
   border-radius: 15px 15px 0 0;
   /* display: none; */
@@ -222,7 +223,7 @@ a {
 }
 
 .logo {
-  width: 80px;
+  width: 110px;
 }
 
 .toggle {
@@ -239,8 +240,8 @@ a {
 }
 
 .owl-theme .item img {
-  height: 632px;
-  object-fit: cover;
+  height: auto;
+  object-fit: contain;
   object-position: top;
 }
 
